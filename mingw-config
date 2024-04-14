@@ -65,7 +65,7 @@ test -z "$PREFIX" && PREFIX=/usr/local/$HOST
     --disable-nls \
     --with-libcares \
     --without-gnutls \
-    --without-openssl \
+#    --without-openssl \
     --with-sqlite3 \
     --without-libxml2 \
     --with-libexpat \
